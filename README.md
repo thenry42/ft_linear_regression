@@ -286,5 +286,3 @@ This implementation teaches:
    - Predicting car prices
    - Understanding depreciation
    - Market analysis
-
----
